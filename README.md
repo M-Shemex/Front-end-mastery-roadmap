@@ -11,8 +11,12 @@ This roadmap is designed to help you achieve mastery in front-end web developmen
 - **SASS/LESS**: Learn CSS preprocessors for better style management.
 - **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences.
 - **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
- ## Phase 4: Real-world Projects and Portfolio
+## Phase 4: Testing, Debugging, and Deployment
+- **Testing**: Implement unit testing with Jest and end-to-end testing with tools like Cypress.
+- **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
+- **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
+ ## Phase 5: Real-world Projects and Portfolio
  - **Comprehensive Projects**: Tackle larger, more complex projects that demonstrate your Front-end skills.
  - **Portfolio Development**:Focus on coding challenges, system design, and preparing for behavioral interview questions.
-## Phase 5: Soft skills
+## Phase 6: Soft skills
 - Focus on improving code readability, problem-solving skills, and effective communication.
