@@ -13,7 +13,7 @@
 - **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality.
 - **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components.
 ## Phase 3: Advanced Front-end Technologies.
-- **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=30LWjhZzg50)
+- **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
 - **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
 - **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
@@ -24,7 +24,7 @@
 - **Testing**: Implement unit testing with Jest and end-to-end testing with tools like Cypress.
 - **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
 - **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
-- **Jest.js**: Learn Jest for testing JavaScript code with confidence.
+- **Jest.js**: Learn Jest for testing JavaScript code with confidence with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
 - **Axios**: Master Axios for making HTTP requests from the browser.
 - **Continuous Integration and Continuous Deployment (CI/CD)**: Implement CI/CD pipelines to automate testing and deployment processes for your projects.
 
