@@ -2,7 +2,7 @@
 - **Revision** on HTML and CSS with this [Course](https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=5007s)
 - **Revision** on JS fundamentals and dive deep into it using [Eloquent JS](https://eloquentjavascript.net/) and [js the definitive guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
-## Phase 2: Dive into Front-end Libraries and Advanced Collaboration.
+## Phase 2: Dive into Front-end Libraries/Frameworks and Advanced Collaboration.
 - **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease.
 - **Advanced Git and GitHub Practices**: Enhance your collaboration skills with advanced Git techniques such as rebasing, squashing commits, and managing merge conflicts. Utilize GitHub for project management with Kanban boards, automated workflows, and code reviews.
 - **Angular**: Learn Angular framework for building robust and scalable web applications.
@@ -10,6 +10,8 @@
 - **Vue.js**: Explore Vue.js for building interactive and reactive user interfaces.
 - **Svelte**: Dive into Svelte for building highly efficient and reactive web applications.
 - **Redux**: Understand Redux for state management in complex applications.
+- **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality.
+- **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components.
 ## Phase 3: Advanced Front-end Technologies.
 - **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=30LWjhZzg50)
 - **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
