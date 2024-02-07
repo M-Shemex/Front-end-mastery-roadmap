@@ -8,8 +8,8 @@ This roadmap is designed to help you achieve mastery in front-end web developmen
 - **Advanced Git and GitHub Practices**: Enhance your collaboration skills with advanced Git techniques such as rebasing, squashing commits, and managing merge conflicts. Utilize GitHub for project management with Kanban boards, automated workflows, and code reviews.
 ## Phase 3: Advanced Front-end Technologies.
 - **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=30LWjhZzg50)
-- **SASS/LESS**: Learn CSS preprocessors for better style management.
-- **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences.
+- **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+- **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
 - **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
 ## Phase 4: Testing, Debugging, and Deployment
 - **Testing**: Implement unit testing with Jest and end-to-end testing with tools like Cypress.
