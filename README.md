@@ -5,17 +5,16 @@
 ## Phase 2: Dive into Front-end Libraries and Advanced Collaboration.
 - **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease.
 - **Advanced Git and GitHub Practices**: Enhance your collaboration skills with advanced Git techniques such as rebasing, squashing commits, and managing merge conflicts. Utilize GitHub for project management with Kanban boards, automated workflows, and code reviews.
-
-## Phase 3: Advanced Front-end Technologies.
-- **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=30LWjhZzg50)
-- **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
-- **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
-- **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
 - **Angular**: Learn Angular framework for building robust and scalable web applications.
 - **Next.js**: Master Next.js for server-rendered React applications with ease.
 - **Vue.js**: Explore Vue.js for building interactive and reactive user interfaces.
 - **Svelte**: Dive into Svelte for building highly efficient and reactive web applications.
 - **Redux**: Understand Redux for state management in complex applications.
+## Phase 3: Advanced Front-end Technologies.
+- **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=30LWjhZzg50)
+- **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+- **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
+- **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
 - **Backend Communication Protocols**: Learn about different protocols used for backend communication, such as REST, GraphQL, WebSockets, etc., through the course by Hussein Nasser on Udemy.
 - **Networking Fundamentals**: Gain a strong foundation in networking principles through the course by Hussein Nasser on Udemy.
 
