@@ -1,2 +1,2 @@
 # Front-end-mastery-roadmap
-This roadmap aims to achieve mastery at front end web development and become job ready. 
+This roadmap is designed to help you achieve mastery in front-end web development and ensure you are ready for employment in the field. 
