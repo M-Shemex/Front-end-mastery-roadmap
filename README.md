@@ -1,4 +1,4 @@
-## Phase 1: Revision on HTML, CSS, and JS fundamentals. *In progress*
+## Phase 1: Revision on HTML, CSS, and JS fundamentals. *[In progress]*
 - **Revision** on HTML and CSS with this [Course](https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=5007s)  ***[DONE]***
 - **Revision** on JS fundamentals and dive deep into it using [Eloquent JS](https://eloquentjavascript.net/) and [js the definitive guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 - **Create** a simple web using what i have learned
