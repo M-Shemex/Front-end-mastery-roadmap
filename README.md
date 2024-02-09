@@ -19,8 +19,14 @@
 - **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
 - **Backend Communication Protocols**: Learn about different protocols used for backend communication, such as REST, GraphQL, WebSockets, etc., through the course by Hussein Nasser on Udemy.
 - **Networking Fundamentals**: Gain a strong foundation in networking principles through the course by Hussein Nasser on Udemy.
-
-## Phase 4: Testing, Debugging, and Deployment
+## Phase 4: Learning UI/UX Design Principles
+- **Basics of UI/UX Design**: Understand the fundamentals of user interface and user experience design.
+- **Design Thinking and Process**: Learn about the design thinking process, user research, and user personas.
+- **Wireframing and Prototyping**: Use tools like Figma, Sketch, or Adobe XD to create wireframes and prototypes.
+- **UI Design Patterns**: Study common design patterns and how they solve user interface problems.
+- **Usability Testing**: Learn how to conduct usability tests to gather feedback and improve designs.
+- **Accessibility and Inclusive Design**: Understand the importance of designing for accessibility and inclusivity.
+## Phase 5: Testing, Debugging, and Deployment
 - **Testing**: Implement unit testing with Jest and end-to-end testing with tools like Cypress.
 - **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
 - **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
@@ -28,9 +34,9 @@
 - **Axios**: Master Axios for making HTTP requests from the browser.
 - **Continuous Integration and Continuous Deployment (CI/CD)**: Implement CI/CD pipelines to automate testing and deployment processes for your projects.
 
-## Phase 5: Real-world Projects and Portfolio
+## Phase 6: Real-world Projects and Portfolio
 - **Comprehensive Projects**: Tackle larger, more complex projects that demonstrate your Front-end skills.
 - **Portfolio Development**: Focus on coding challenges, system design, and preparing for behavioral interview questions.
 
-## Phase 6: Soft skills
+## Phase 7: Soft skills
 - Focus on improving code readability, problem-solving skills, and effective communication.
