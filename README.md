@@ -12,6 +12,7 @@
 - **Redux**: Understand Redux for state management in complex applications.
 - **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality.
 - **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components.
+- **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types.
 ## Phase 3: Advanced Front-end Technologies.
 - **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
