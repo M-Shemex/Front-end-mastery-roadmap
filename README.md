@@ -20,7 +20,8 @@
 - **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading.
 - **Backend Communication Protocols**: Learn about different protocols used for backend communication, such as REST, GraphQL, WebSockets, etc., through the course by Hussein Nasser on Udemy.
 - **Networking Fundamentals**: Gain a strong foundation in networking principles through the course by Hussein Nasser on Udemy.
-- **Electron.js**: Learn to use Electron.js for building native desktop applications using web technologies.
+- **Electron.js**: Learn to use Electron.js for building native desktop applications using web technologies. - 
+- **Axios**: Master Axios for making HTTP requests from the browser.
 ## Phase 4: Learning UI/UX Design Principles
 - **Basics of UI/UX Design**: Understand the fundamentals of user interface and user experience design.
 - **Design Thinking and Process**: Learn about the design thinking process, user research, and user personas.
@@ -33,7 +34,7 @@
 - **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
 - **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
 - **Jest.js**: Learn Jest for testing JavaScript code with confidence with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
-- **Axios**: Master Axios for making HTTP requests from the browser.
+
 - **Continuous Integration and Continuous Deployment (CI/CD)**: Implement CI/CD pipelines to automate testing and deployment processes for your projects.
 
 ## Phase 6: Real-world Projects and Portfolio
