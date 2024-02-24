@@ -3,7 +3,7 @@
 - **Revision** on JS fundamentals and dive deep into it using [Eloquent JS](https://eloquentjavascript.net/) and [js the definitive guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) ***[DONE]***
 - **Create** a simple web using what i have learned ***[DONE]***
 ## Phase 2: Dive into Front-end Libraries/Frameworks and Advanced Collaboration. *[In progress]*
-- **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease. **[In progress]**
+- **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease. **[Done]**
 - **Advanced Git and GitHub Practices**: Enhance your collaboration skills with advanced Git techniques such as rebasing, squashing commits, and managing merge conflicts. Utilize GitHub for project management with Kanban boards, automated workflows, and code reviews.
 - **Angular**: Learn Angular framework for building robust and scalable web applications. 
 - **Next.js**: Master Next.js for server-rendered React applications with ease.
