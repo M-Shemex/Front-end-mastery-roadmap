@@ -14,6 +14,7 @@
 - **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components.
 - **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types.
 ## Phase 3: Advanced Front-end Technologies.
+- **Learn Million.JS**:Learn Million.js to Optimize your React code and increase the performance by up to 70%
 - **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
 - **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
@@ -34,7 +35,6 @@
 - **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
 - **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
 - **Jest.js**: Learn Jest for testing JavaScript code with confidence with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
-
 - **Continuous Integration and Continuous Deployment (CI/CD)**: Implement CI/CD pipelines to automate testing and deployment processes for your projects.
 
 ## Phase 6: Real-world Projects and Portfolio
