@@ -11,7 +11,7 @@
 - 🟢 **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality [through this course, Note: It's recommended to learn nextjs first](https://www.youtube.com/watch?v=ft30zcMlFao)
 - 🟢 **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components [through this course](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 - 🟢 **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types. *Optional*
-- ###Sub-Phase: React Eco-system
+- ### Sub-Phase: React Eco-system
   - 🟢 **Redux**: Understand Redux for state management in complex applications. ***[In progress]***
   - 🟢 **Next.js**: Master Next.js for server-rendered React applications with ease.
   - 🟢 **React Hook Form**: Learn RHF to deal with forms and validate data in a simple way. [through this course](https://www.youtube.com/watch?v=KejZXxFCe2k&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s)
