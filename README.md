@@ -3,7 +3,7 @@
 - 🟢 **Revision** on JS fundamentals and dive deep into it using [Eloquent JS](https://eloquentjavascript.net/) and [js the definitive guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) ***[DONE]***
 - 🟢 **Create** a simple web using what you have learned ***[DONE]***
 ## Phase 2: Dive into Front-end Libraries/Frameworks and Advanced Collaboration. *[In progress]*
-- 🟢 **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease. **[Done]**
+- 🟢 **Learn React**: Begin with React basics, advance through modern hooks and state management, and evolve into creating dynamic, responsive web applications with ease. [React Roadmap](https://github.com/M-Shemex/2nd-Phase-React/blob/main/README.md)
 - 🟢 **Advanced Git and GitHub Practices**: Enhance your collaboration skills with advanced Git techniques such as rebasing, squashing commits, and managing merge conflicts. Utilize GitHub for project management with Kanban boards, automated workflows, and code reviews, [Course](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - 🟢 **Angular**: Learn Angular framework for building robust and scalable web applications. 
 - 🟢 **Vue.js**: Explore Vue.js for building interactive and reactive user interfaces.
@@ -11,11 +11,6 @@
 - 🟢 **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality [through this course, Note: It's recommended to learn nextjs first](https://www.youtube.com/watch?v=ft30zcMlFao)
 - 🟢 **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components [through this course](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 - 🟢 **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types. *Optional*
-- ### Sub-Phase: React Eco-system
-  - 🟢 **Redux**: Understand Redux for state management in complex applications. ***[In progress]***
-  - 🟢 **Next.js**: Master Next.js for server-rendered React applications with ease.
-  - 🟢 **React Hook Form**: Learn RHF to deal with forms and validate data in a simple way. [through this course](https://www.youtube.com/watch?v=KejZXxFCe2k&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s)
-  - 🟢 **React Query**: Understand React Query for Simplified Data Fetching and Management. [Course](https://www.youtube.com/watch?v=VtWkSCZX0Ec&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
 ## Phase 3: Advanced Front-end Technologies.
 - 🟢 **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - 🟢 **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
