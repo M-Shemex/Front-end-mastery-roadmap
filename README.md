@@ -8,7 +8,7 @@
 - 🟢 **Angular**: Learn Angular framework for building robust and scalable web applications. 
 - 🟢 **Vue.js**: Explore Vue.js for building interactive and reactive user interfaces.
 - 🟢 **Svelte**: Dive into Svelte for building highly efficient and reactive web applications.
-- 🟢 **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality [through this course, Note: It's recommended to learn nextjs first](https://www.youtube.com/watch?v=ft30zcMlFao)
+- 🟢 **Tailwind CSS**: Practice building responsive designs with Tailwind's mobile-first approach and explore its plugin ecosystem to extend functionality [through this Dave gray's course]([https://www.youtube.com/watch?v=ft30zcMlFao](https://www.youtube.com/watch?v=lCxcTsOHrjo))
 - 🟢 **Bootstrap**: Dive into Bootstrap for its responsive grid system and pre-designed components. Learn how to customize Bootstrap themes and utilize its JavaScript plugins for interactive components [through this course](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 - 🟢 **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types. *Optional*
 ## Phase 3: Advanced Front-end Technologies.
