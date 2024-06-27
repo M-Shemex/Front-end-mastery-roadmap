@@ -24,8 +24,8 @@
 
 ## Phase 4: Testing, Debugging, and Deployment
 - 🟢 **Testing**: Implement unit testing with Jest and end-to-end testing with tools like Cypress.
-- 🟢 **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools.
-- 🟢 **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages.
+- 🟢 **Debugging**: Master the use of debugging tools such as Chrome DevTools and framework-specific tools like React Developer Tools. D
+- 🟢 **Deployment**: Understand how to deploy websites and applications using services like Netlify, Vercel, or GitHub Pages. D
 - 🟢 **Jest.js**: Learn Jest for testing JavaScript code with confidence with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
 - 🟢 **Continuous Integration and Continuous Deployment (CI/CD)**: Implement CI/CD pipelines to automate testing and deployment processes for your projects.
 
@@ -40,5 +40,5 @@
 - 🟢 **Back-End Basics**: Learn Back-End basics by learning Node js, Express js and MongoDB
 - 🟢 **UI/UX Basics**: Learn how to design a web page and How to use Figma/Adobe XD
 - 🟢 **Web Security Basics**: Learn how to protect your website from XSS, CSRF and click jacking
-- 🟢 **SEO Basics**: Learn how to optimize your website for better rankings on search engines
-- 🟢 **Data Structures and Algorthims**
+- 🟢 **SEO Basics**: Learn how to optimize your website for better rankings on search engines [through this course](https://www.youtube.com/watch?v=xsVTqzratPs)
+- 🟢 **Data Structures and Algorthims**: Roadmap in progress...
