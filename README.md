@@ -37,6 +37,6 @@
 ## Bonus: Very Helpful skills as a Front-end Developer!
 - 🟢 **Back-End Basics**: Learn Back-End basics by learning Node js, Express js and MongoDB
 - 🟢 **UI/UX Basics**: Learn how to design a web page and How to use Figma/Adobe XD
-- 🟢 **Web Security Basics**: Learn how to protect your website from XSS, CSRF and click jacking
+- 🟢 **Web Security Basics**: Learn how to protect your website from XSS, CSRF and click jacking [through this course note: not sure about it](https://www.youtube.com/watch?v=80VviDER96I)
 - 🟢 **SEO Basics**: Learn how to optimize your website for better rankings on search engines [through this course](https://www.youtube.com/watch?v=xsVTqzratPs)
 - 🟢 **Data Structures and Algorthims**: Roadmap in progress...
