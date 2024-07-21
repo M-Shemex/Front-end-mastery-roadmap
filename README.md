@@ -13,13 +13,14 @@
 - 🟢 **WordPress**: Learn to use WordPress for building and managing websites, focusing on themes, plugins, and custom content types. *Optional*
 ## Phase 3: Advanced Front-end Technologies.
 - 🟢 **Learn Typescript**: Learn TypeScript for adding static type definitions to enhance code quality and maintainability with this [Course](https://www.youtube.com/watch?v=gieEQFIfgYc) D
-- 🟢 **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+- 🟢 **SASS/LESS**: Learn CSS preprocessors for better style management with this [Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) D
 - 🟢 **Progressive Web Apps**: Develop applications that offer offline capabilities and mobile-friendly experiences with this [playlist](https://www.youtube.com/watch?v=BByUknfLTuA&list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY) or Max's course
-- 🟢 **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading. *Bonus*
-- 🟢 **Backend Communication Protocols**: Learn about different protocols used for backend communication, such as REST, GraphQL, WebSockets, etc., through the course by Hussein Nasser on Udemy.
+- 🟢 **Web Performance Optimization**: Focus on optimizing your applications for speed and efficiency, employing techniques like code splitting and lazy loading. 
+- 🟢 **Backend Communication Protocols**: Learn about different protocols used for backend communication, such as REST, GraphQL, WebSockets, etc., through the course by Hussein Nasser on Udemy.*Bonus*
 - 🟢 **Networking Fundamentals**: Gain a strong foundation in networking principles through the course by Hussein Nasser on Udemy. *Bonus*
 - 🟢 **Electron.js**: Learn to use Electron.js for building native desktop applications using web technologies.
 - 🟢 **React Native**: Learn how to use React Native for building native mobile apps using React
+- 🟢 **Ionic**: Learn how to use Ionic for building native mobile apps 
 - 🟢 **Axios**: Master Axios for making HTTP requests from the browser.
 
 ## Phase 4: Testing, Debugging, and Deployment D
@@ -40,3 +41,6 @@
 - 🟢 **Web Security Basics**: Learn how to protect your website from XSS, CSRF and click jacking [through this course note: not sure about it](https://www.youtube.com/watch?v=80VviDER96I)
 - 🟢 **SEO Basics**: Learn how to optimize your website for better rankings on search engines [through this course](https://www.youtube.com/watch?v=xsVTqzratPs)
 - 🟢 **Data Structures and Algorthims**: Roadmap in progress...
+
+## The End: Congrats you have become a front-end developer!
+- writing in progress...
